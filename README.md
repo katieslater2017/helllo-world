@@ -1,2 +1,2 @@
-# helllo-world
+# hello-world
 first reporistory
